@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+  {
+  "source": {
+  "id": null,
+  "name": "BBC News"
+  },
+  "author": "https://www.facebook.com/bbcnews",
+  "title": "Covid: French uproar as Macron vows to 'piss off' unvaccinated - BBC News",
+  "description": "The president vows to make life difficult for the unjabbed, but opponents condemn his language.",
+  "url": "https://www.bbc.com/news/world-europe-59873833",
+  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/156BA/production/_122583778_gettyimages-1360007993.jpg",
+  "publishedAt": "2022-01-05T12:05:50Z",
+  "content": "Image source, Getty Images\r\nImage caption, Mr Macron says he wants to limit \"as much as possible\" access to activities for the unvaccinated\r\nFrench President Emmanuel Macron has been accused of using… [+5309 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "NPR"
+  },
+  "author": null,
+  "title": "Israel sets COVID-19 record as rule changes create whiplash - NPR",
+  "description": "The omicron variant is outpacing the government's ability to make and execute clear pandemic public policy.",
+  "url": "https://www.npr.org/2022/01/05/1070478298/israel-sets-covid-19-record-as-rule-changes-create-whiplash",
+  "urlToImage": "https://media.npr.org/assets/img/2022/01/05/ap22004570868197_wide-4df43350569d8c945ce878805a87007bdb03b138.jpg?s=1400",
+  "publishedAt": "2022-01-05T10:10:10Z",
+  "content": "A man receives his fourth dose of the coronavirus vaccine in a private nursing home in Petah Tikva, Israel, on Tuesday.\r\nAriel Schalit/AP\r\nTEL AVIV, Israel Israel opened to tourists for the first tim… [+7103 chars]"
+  },
+  {
+  "source": {
+  "id": "cnn",
+  "name": "CNN"
+  },
+  "author": "Story by Reuters",
+  "title": "Kazakhstan's government resigns as fuel protests rage - CNN",
+  "description": "Kazakh President Kassym-Jomart Tokayev accepted the government's resignation on Wednesday after a fuel price increase in the oil-producing Central Asian country triggered protests in which nearly 100 police were injured.",
+  "url": "https://www.cnn.com/2022/01/04/asia/kazakhstan-protest-emergency-intl-hnk/index.html",
+  "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220104213301-05-kazakhstan-protest-emergency-010522-super-tease.jpg",
+  "publishedAt": "2022-01-05T10:06:00Z",
+  "content": "Almaty, Kazakhstan Kazakh President Kassym-Jomart Tokayev accepted the government's resignation on Wednesday after a fuel price increase in the oil-producing Central Asian country triggered protests … [+3387 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Daily Beast"
+  },
+  "author": "David Axe",
+  "title": "The Next Big COVID-19 Variant Could Be a Triple Whammy Nightmare - The Daily Beast",
+  "description": "Future variants could combine the most dangerous traits of older COVID lineages—to devastating effect.",
+  "url": "https://www.thedailybeast.com/the-next-big-covid-19-variant-could-be-a-triple-whammy-nightmare",
+  "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1641329847/220104-Axe-next-covid-variant-_escnjm",
+  "publishedAt": "2022-01-05T10:02:50Z",
+  "content": "Even as daily new COVID cases set all-time records and hospitals fill up, epidemiologists have arrived at a perhaps surprising consensus. Yes, the latest Omicron variant of the novel coronavirus is b… [+7378 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "New York Times"
+  },
+  "author": null,
+  "title": "5 Minutes That Will Make You Love Mezzo-Sopranos - The New York Times",
+  "description": "Listen to the warm, rich sound of Marilyn Horne, Janet Baker, Grace Bumbry and more.",
+  "url": "https://www.nytimes.com/2022/01/05/arts/music/opera-classical-music-mezzo-soprano.html",
+  "urlToImage": "https://static01.nyt.com/images/2022/01/05/arts/05fiveminutes-mezzo/05fiveminutes-mezzo-facebookJumbo.png",
+  "publishedAt": "2022-01-05T10:00:23Z",
+  "content": "In the past weve chosen the five minutes or so we would play to make our friends fall in love with classical music, piano, opera, cello, Mozart, 21st-century composers, violin, Baroque music, soprano… [+10848 chars]"
+  },
+  {
+  "source": {
+  "id": "reuters",
+  "name": "Reuters"
+  },
+  "author": null,
+  "title": "Djokovic needs to prove exemption or go home - Australian PM - Reuters",
+  "description": "Novak Djokovic needs to prove that he has a genuine medical exemption from COVID-19 vaccination when he lands in Australia or he will be \"on the next plane home\", Australian Prime Minister Scott Morrison said on Wednesday. The world No. 1 announced on Tuesday…",
+  "url": "https://www.reuters.com/lifestyle/sports/no-special-treatment-djokovic-exemption-australian-officials-say-2022-01-05/",
+  "urlToImage": "https://www.reuters.com/resizer/s3yKLsDp3csrRMqaqvlweg32dWU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YKSKCKMYYVJPZARKKOFES4IAWI.jpg",
+  "publishedAt": "2022-01-05T09:54:00Z",
+  "content": "SYDNEY, Jan 5 (Reuters) - Novak Djokovic needs to prove that he has a genuine medical exemption from COVID-19 vaccination when he lands in Australia or he will be \"on the next plane home\", Australian… [+3531 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "NPR"
+  },
+  "author": "",
+  "title": "Xi'an reacts to COVID lockdowns with outrage and humor - NPR",
+  "description": "Lockdowns are so strict and so prolonged in the Chinese city that residents have taken to social media to complain and joke about a lack of basic supplies.",
+  "url": "https://www.npr.org/2022/01/05/1070472805/xian-reacts-to-covid-lockdowns-with-outrage-and-humor",
+  "urlToImage": "https://media.npr.org/assets/img/2022/01/05/ap22005215783428_wide-f81918248ae4ef4d763e44aa72b2dc7956cc4e91.jpg?s=1400",
+  "publishedAt": "2022-01-05T09:33:00Z",
+  "content": "Women wearing face masks to protect against COVID-19 look at their smartphones at a public park in Beijing Wednesday. China is reporting a major drop in local COVID-19 infections in the northern city… [+2085 chars]"
+  },
+  {
+  "source": {
+  "id": "the-washington-post",
+  "name": "The Washington Post"
+  },
+  "author": "Bryan Pietsch",
+  "title": "'Jeopardy!” winner Amy Schneider robbed in Oakland - The Washington Post",
+  "description": "Schneider said she's been having trouble sleeping and has had to replace her belongings, so “it may take a bit” to catch up on her popular Twitter recaps.",
+  "url": "https://www.washingtonpost.com/nation/2022/01/05/jeopardy-winner-amy-schneider-robbed/",
+  "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W7W5KETNZMI6ZMPCAU45VD2EKE.jpg&w=1440",
+  "publishedAt": "2022-01-05T08:32:49Z",
+  "content": "Responding to an inquiry about the robbery, a spokeswoman for the Oakland Police Department, Kim Armstead, said in an email to The Washington Post that on Sunday shortly after 3:30 p.m., two people, … [+2021 chars]"
+  },
+  {
+  "source": {
+  "id": "abc-news",
+  "name": "ABC News"
+  },
+  "author": "Miles Cohen",
+  "title": "EXCLUSIVE: Juror speaks out after convicting Elizabeth Holmes - ABC News",
+  "description": "",
+  "url": "https://abcnews.go.com/US/exclusive-juror-speaks-convicting-elizabeth-holmes/story?id=82082789",
+  "urlToImage": "https://s.abcnews.com/images/US/holmes-juror-ho-mo-20220104_1641355914715_hpMain_2_16x9_992.jpg",
+  "publishedAt": "2022-01-05T08:32:09Z",
+  "content": "By the end of day three of deliberations in the Elizabeth Holmes trial, the jury had already decided to find the fallen Theranos founder guilty of defrauding investors who had poured millions of doll… [+4889 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "BBC News"
+  },
+  "author": "https://www.facebook.com/bbcnews",
+  "title": "James Webb Space Telescope: Sun shield is fully deployed - BBC News",
+  "description": "The unfurling of the observatory's giant sun shade is a major milestone for the $10bn mission.",
+  "url": "https://www.bbc.com/news/science-environment-59873738",
+  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9C5C/production/_122582004_index.jpg",
+  "publishedAt": "2022-01-05T07:59:38Z",
+  "content": "Jonathan AmosScience correspondent@BBCAmoson Twitter\r\nImage caption, This is Webb's current configuration. Its shield is deployed but its mirrors are still stowed\r\nThe new James Webb telescope has pa… [+3937 chars]"
+  },
+  {
+  "source": {
+  "id": "the-verge",
+  "name": "The Verge"
+  },
+  "author": "Sam Byford",
+  "title": "Vivo launches ‘color-changing’ V23 Pro with dual-camera notch - The Verge",
+  "description": "Vivo has announced the V23 and V23 Pro, the latest phones in the company’s mainstream V series that sells a ton in India and other Asian countries. The gold model is able to change colors in sunlight.",
+  "url": "https://www.theverge.com/2022/1/5/22868114/vivo-v23-pro-announced-india-specs-price",
+  "urlToImage": "https://cdn.vox-cdn.com/thumbor/NY5l3MrTH-MTXXWzS8UwC8B8RkE=/0x165:2304x1371/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23146717/V23_Series_Lifestyle_CGI___10.jpg",
+  "publishedAt": "2022-01-05T07:30:54Z",
+  "content": "What if Hypercolor, but a phone\r\nVivo has announced the V23 and V23 Pro, the latest phones in the companys mainstream V series that sells a ton in India and other Asian countries. \r\nThe most unusual … [+1513 chars]"
+  },
+  {
+  "source": {
+  "id": "reuters",
+  "name": "Reuters"
+  },
+  "author": null,
+  "title": "Asian shares slip as rising U.S. yields hit tech firms - Reuters",
+  "description": "Asian stocks slipped on Wednesday following a mixed Wall Street session as higher U.S. Treasury yields weighed on global tech firms and pushed the dollar to a five-year high against Japan's yen.",
+  "url": "https://www.reuters.com/markets/europe/global-markets-wrapup-1-2022-01-05/",
+  "urlToImage": "https://www.reuters.com/resizer/Uq3NiauovjbkV_3nxVzji5VYpcI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/56YITS4K6VJJVFCN6LYCLO56Q4.jpg",
+  "publishedAt": "2022-01-05T06:38:00Z",
+  "content": "HONG KONG, Jan 5 (Reuters) - Asian stocks slipped on Wednesday following a mixed Wall Street session as higher U.S. Treasury yields weighed on global tech firms and pushed the dollar to a five-year h… [+3472 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "NPR"
+  },
+  "author": null,
+  "title": "Chicago public school classes are canceled after teachers union backs remote learning - NPR",
+  "description": "The announcement by district officials follows the teachers union voting to switch to remote learning due to the latest COVID-19 surge. The status of classes for the rest of the week remains in limbo.",
+  "url": "https://www.npr.org/2022/01/05/1070462827/chicago-public-school-classes-are-canceled-after-teachers-union-backs-remote-lea",
+  "urlToImage": "https://media.npr.org/assets/img/2022/01/05/ap22004723409047_wide-1000acfac51db8f9db013e595ea35cb82f077d14.jpg?s=1400",
+  "publishedAt": "2022-01-05T06:06:00Z",
+  "content": "Pedro Martinez, chief executive of Chicago Public Schools, said classes would be canceled Wednesday if the teachers union voted to switch to remote learning due to record COVID-19 levels. Mayor Lori … [+3937 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Silver Screen and Roll "
+  },
+  "author": "Austin.Green",
+  "title": "Lakers vs. Kings Final Score: L.A. outlasts Sacramento to get over .500 - Silver Screen and Roll ",
+  "description": "It wasn’t pretty, but the Lakers capitalized on the Kings’ turnover issues and got huge performances from LeBron James, Malik Monk and Talen Horton-Tucker to pull out the victory.",
+  "url": "https://www.silverscreenandroll.com/2022/1/4/22867999/lakers-vs-kings-final-score-recap-lebron-james-buddy-hield-russell-westbrook-stats",
+  "urlToImage": "https://cdn.vox-cdn.com/thumbor/4qjrjLqvewIayQrmrRFiZttZtTw=/0x116:1200x744/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23146648/lebron_.png",
+  "publishedAt": "2022-01-05T05:55:48Z",
+  "content": "The Lakers struggled to defend the paint, and LeBron James and Russell Westbrook both had relatively off nights,but the Lakers gutted out a 122-114 victory over the Sacramento Kings thanks to some cl… [+5034 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "New York Post"
+  },
+  "author": "Kenneth Garger",
+  "title": "'Lost' dog on New Hampshire highway leads police to owner injured in car wreck - New York Post ",
+  "description": "When a state trooper and Lebanon police officers approached the dog named Tinsley, the animal darted northbound on the highway and crossed into Vermont.",
+  "url": "https://nypost.com/2022/01/05/lost-dog-on-new-hampshire-highway-leads-police-to-owner-injured-in-car-wreck/",
+  "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/01/dog-rescue-new-hampshire.png?w=1024",
+  "publishedAt": "2022-01-05T05:06:00Z",
+  "content": "A heroic dog found on a New Hampshire highway led police to its owner who was ejected from a pickup truck at a nearby crash site on Monday night, authorities said.\r\nThe pooch, a German Shepard named … [+994 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "BBC News"
+  },
+  "author": "https://www.facebook.com/bbcnews",
+  "title": "North Korea launches 'unidentified projectile' into sea - BBC News",
+  "description": "South Korean and Japanese officials spot Pyongyang's first launch in 2022, but details are unclear.",
+  "url": "https://www.bbc.com/news/world-asia-59876095",
+  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A756/production/_122583824_5d1c8dea-672b-42c6-9064-262b2c524359.jpg",
+  "publishedAt": "2022-01-05T05:05:28Z",
+  "content": "Image source, KCNA via Reuters\r\nImage caption, The launch would be the first by leader Kim Jong-Un in 2022\r\nNorth Korea has fired what has been described as an unidentified projectile into the sea, s… [+3371 chars]"
+  },
+  {
+  "source": {
+  "id": "fox-news",
+  "name": "Fox News"
+  },
+  "author": "Lawrence Richard",
+  "title": "Aaron Rodgers won't get NFL MVP voter's backing: 'Biggest jerk in the league' - Fox News",
+  "description": "At least one voter for this year's NFL MVP says he won't be backing the frontrunner, Green Bay Packers quarterback Aaron Rodgers.",
+  "url": "https://www.foxnews.com/sports/aaron-rodgers-nfl-mvp-voter-biggest-jerk-in-the-league-green-bay-packers",
+  "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/Aaron-Rodgers3.jpg",
+  "publishedAt": "2022-01-05T04:52:30Z",
+  "content": "At least one voter for this year's NFL MVP says he won't be backing the frontrunner, Green Bay Packers quarterback Aaron Rodgers.\r\n\"I think hes a bad guy,\" Hub Arkush, editor and general manager of C… [+3779 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "New York Post"
+  },
+  "author": "Jesse O’Neill",
+  "title": "Walmart and Kroger boost price of COVID-19 rapid test - New York Post ",
+  "description": "Walmart and Kroger boosted the price of BinaxNOW’s antigen self-test kits to $20-$24. The retailers have an agreement with the White House to sell the rapid tests at cost expired.",
+  "url": "https://nypost.com/2022/01/04/walmart-and-kroger-boost-price-of-covid-19-rapid-test/",
+  "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/01/newspress-collage-20717462-1641355338709.png?w=1024",
+  "publishedAt": "2022-01-05T04:45:00Z",
+  "content": "The nation’s two largest retailers jacked up the price of an on-demand rapid COVID-19 test after a 100-day agreement with the White House to sell it at cost expired. \r\nWalmart increased the price of … [+1640 chars]"
+  },
+  {
+  "source": {
+  "id": "independent",
+  "name": "Independent"
+  },
+  "author": "Alex Woodward",
+  "title": "January 6 committee news - latest: Trump cancels anniversary speech as Sean Hannity’s texts revealed - The Independent",
+  "description": "Jan 6 committee news - latest",
+  "url": "https://www.independent.co.uk/news/world/americas/us-politics/january-6-committee-capitol-riot-news-trump-b1986925.html",
+  "urlToImage": "https://static.independent.co.uk/2022/01/03/14/AFP_9VG2LA.jpg?width=1200&auto=webp&quality=75",
+  "publishedAt": "2022-01-05T04:23:43Z",
+  "content": "Trump says he is expecting big crowd on 15 January in Arizona\r\nAfter Donald Trump cancelled a press conference he was scheduled to address on the anniversary of the Capitol Hill riots, he said that h… [+943 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "ScienceAlert"
+  },
+  "author": "Fiona MacDonald",
+  "title": "A Giant Asteroid Bigger Than The Empire State Building Is About to Zip Past Earth - ScienceAlert",
+  "description": "A large, rocky asteroid is going to fly by Earth next week.",
+  "url": "https://www.sciencealert.com/a-massive-asteroid-2-5x-the-height-of-empire-state-building-will-safely-pass-earth-next-week",
+  "urlToImage": "https://www.sciencealert.com/images/2022-01/processed/Asteroid74821_1024.jpg",
+  "publishedAt": "2022-01-05T04:05:32Z",
+  "content": "A large, rocky asteroid is going to fly by Earth next week.\r\nAt 1 kilometer (3,280 feet) long, it's roughly two and a half times the height of the Empire State Building, and it's been classed a \"Pote… [+3305 chars]"
+  }
+  ]
+  }
